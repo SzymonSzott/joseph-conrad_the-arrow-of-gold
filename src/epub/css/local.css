@@ -28,6 +28,7 @@ p span.i1{
 blockquote[xml|lang]{
 	font-style: italic;
 }
+
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	font-variant: small-caps;
